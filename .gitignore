@@ -1,0 +1,7 @@
+__pycache__/
+.env
+.venv/
+*.db
+*.wav
+test_qr_*.png
+data/

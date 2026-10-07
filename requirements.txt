@@ -1,0 +1,15 @@
+scikit-learn
+joblib
+streamlit
+pandas
+fastapi
+uvicorn
+requests
+rapidocr-onnxruntime
+pillow
+python-multipart
+numpy
+opencv-python
+qrcode
+faster-whisper
+pyttsx3
